@@ -14,9 +14,9 @@ Computer Engineering student at the Faculty of Sciences, University of Lisbon (F
 
 **BSc in Computer Engineering**
 
----
+### University of Glasgow 
 
-### University of Glasgow (Erasmus Exchange)
+**Erasmus Exchange**
 
 ---
 
