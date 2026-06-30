@@ -22,10 +22,7 @@ www.linkedin.com/in/androngarosantos
 Email:
 androngaro@gmail.com
 
-##Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=androngarosantos&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=androngarosantos&layout=compact&theme=github_dark)
 
 <!--
 **androngarosantos/androngarosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
