@@ -8,7 +8,7 @@ Computer Engineering student at the Faculty of Sciences, University of Lisbon (F
 
 
 ---
-## Education
+## 🎓 Education
 
 ### Faculty of Sciences, University of Lisbon (FCUL)
 
