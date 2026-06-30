@@ -1,25 +1,46 @@
 # Hello! I'm André Santos 👋
 
-Computer Engineering student at the Faculty of Sciences, University of Lisbon.
+Computer Engineering student at the Faculty of Sciences, University of Lisbon (FCUL).
 
-Languages:
+---
+
+## About Me
+
+
+---
+## Education
+
+### Faculty of Sciences, University of Lisbon (FCUL)
+
+**BSc in Computer Engineering**
+
+---
+
+### University of Glasgow (Erasmus Exchange)
+
+---
+
+## 💻 Technologies
+
+### Languages
+
 - Java
 - Python
 - C
 - SQL
-- Git
-- Haskell
-- Latex
-- Html
 - JavaScript
+- Haskell
 - Assembly
+- HTML/CSS
 
-## Contact
+---
 
-LinkedIn:
+## 📫 Contact
+
+**LinkedIn**
 www.linkedin.com/in/androngarosantos
 
-Email:
+**Email**
 androngaro@gmail.com
 
 
